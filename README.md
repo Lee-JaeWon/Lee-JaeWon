@@ -2,6 +2,8 @@
 
 ## Lee Jae Won
   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeJaeWon-Rbt)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LeeJaeWon-Rbt/LeeJaeWon-Rbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
