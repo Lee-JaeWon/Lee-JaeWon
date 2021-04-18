@@ -5,7 +5,7 @@
 -
   
 ### Interest in
-* **Embedded SoftWare**
+* **Embedded SoftWare** - Iot, Smart Road Intelligence(Infra)
 * **Robot SoftWare, System Design**
 * **Robot Intelligence**
 
