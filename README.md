@@ -5,9 +5,9 @@
 -
   
 ### Interest in
-* Embedded SoftWare
-* Robot SoftWare, System Design
-* Robot Intelligence
+* **Embedded SoftWare**
+* **Robot SoftWare, System Design**
+* **Robot Intelligence**
 
 ------------------------------------
 
