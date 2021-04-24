@@ -1,9 +1,7 @@
-### Hi there 👋  
+### Hi there, I'm Lee Jae Won 👋  
 
+I'm in the School of Robotics and I'm trying to become a Embedded Developers.
 
-## Lee Jae Won  
--
-  
 ### Interest in
 🔎 **Embedded SoftWare** - Iot, Smart Road Intelligence(Infra)  
 🔎 **Robot SoftWare, System Design**  
