@@ -6,6 +6,7 @@ I'm in the School of Robotics
 🔎 **Embedded SoftWare** - Iot, Smart Road Intelligence(Infra)  
 🔎 **Robot SoftWare, System Design**  
 🔎 **Robot Intelligence**  
+🔎 **Artificial Intelligence**  
 
 ------------------------------------
 <h3 align="center">💻Tech Stack </h3>
