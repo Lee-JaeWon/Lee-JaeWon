@@ -3,10 +3,12 @@
 I'm in the School of Robotics
 
 ### Interest in
-🔎 **Embedded SoftWare** - Iot, Smart Road Intelligence(Infra)  
-🔎 **Robot SoftWare, System Design**  
 🔎 **Robot Intelligence**  
-🔎 **Artificial Intelligence**  
+🔎 **Artificial Intelligence** 
+🔎 **Embedded SoftWare**
+🔎 **Robot SoftWare, System Design**   
+🔎 **Autonomous Driving**  
+ 
 
 ------------------------------------
 <h3 align="center">💻Tech Stack </h3>
