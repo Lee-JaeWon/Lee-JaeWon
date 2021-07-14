@@ -3,10 +3,10 @@
 I'm in the School of Robotics
 
 ### Interest in
-🔎 **Robot Intelligence**  
-🔎 **Artificial Intelligence** 
-🔎 **Embedded SoftWare**
-🔎 **Robot SoftWare, System Design**   
+🔎 **Robot Intelligence**    
+🔎 **Artificial Intelligence**   
+🔎 **Embedded SoftWare**  
+🔎 **Robot SoftWare, System Design**     
 🔎 **Autonomous Driving**  
  
 
