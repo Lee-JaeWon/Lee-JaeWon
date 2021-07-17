@@ -5,10 +5,9 @@ I'm in the School of Robotics
 ### Interest in
 🔎 **Robot Intelligence**    
 🔎 **Artificial Intelligence**   
-🔎 **Embedded SoftWare**  
-🔎 **Robot SoftWare, System Design**     
+🔎 **Embedded SoftWare**      
 🔎 **Autonomous Driving**  
- 
+🔎 **Platooning Autonomous Driving - Smart Road Infra**  
 
 ------------------------------------
 <h3 align="center">💻Tech Stack </h3>
