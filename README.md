@@ -6,7 +6,7 @@
 🔎 **Artificial Intelligence**  
 🔎 **Reinforcement Learning**  
 🔎 **Autonomous Driving**    
-🔎 **cooperative Autonomous Driving - Smart Road Technology**    
+🔎 **Cooperative Autonomous Driving - Smart Road Technology**    
 
 ------------------------------------
 ### Tech Stack & Frame Work that I Know and Study 
