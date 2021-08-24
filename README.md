@@ -2,11 +2,11 @@
 
 **I am studying at the School of Robotics of Kwangwoon University.**
 
-### I'm Interest in
-🔎 **Robot Intelligence**    
-🔎 **Artificial Intelligence**       
+### I'm Interest in 
+🔎 **Artificial Intelligence**
+🔎 **Reinforcement Learning**
 🔎 **Autonomous Driving**  
-🔎 **Platooning Autonomous Driving - Smart Road Infra**  
+🔎 **cooperative Autonomous Driving - Smart Road Technology**  
 
 ------------------------------------
 ### Tech Stack & Frame Work that I Know and Study 
