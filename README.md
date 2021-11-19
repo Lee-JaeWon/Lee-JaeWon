@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Inventor-FF8800?style=flat-square&logo=Autodesk&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/STM32F401-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/STM32F401RE-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
 </div>
 
 --------------------------------------  
