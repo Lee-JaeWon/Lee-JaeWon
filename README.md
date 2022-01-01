@@ -1,12 +1,12 @@
-## Hi there, I'm Lee Jae Won 👋  
+## Hi there, I'm Jaewon Lee 👋  
 
-**I am studying at the School of Robotics of Kwangwoon University.**
+**I am studying at the Department of Robotics of Kwangwoon University.**
 
 ### I'm Interest in   
-🔎 **Artificial Intelligence**  
-🔎 **Reinforcement Learning**  
-🔎 **Autonomous Driving**    
-🔎 **Cooperative Autonomous Driving - Smart Road Technology**    
+🔎 **Artificial Intelligence**<br>
+🔎 **Autonomous Driving**<br>
+🔎 **Cooperative Autonomous Driving - Smart Road Technology**<br>
+🔎 **Robot Navigation**<br>    
 
 ------------------------------------
 ### Tech Stack & Frame Work that I Know and Study 
