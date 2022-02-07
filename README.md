@@ -1,4 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=LeeJaeWon&fontAlign=75&fontAlignY=40&color=gradient)
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=LeeJaeWon&fontAlign=75&fontAlignY=40&color=gradient)-->  
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeJaeWon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=51&descAlign=72.8)
   
 ## Hi there, I'm Jaewon Lee 👋  
 
