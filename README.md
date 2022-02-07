@@ -1,11 +1,13 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=LeeJaeWon&fontAlign=75&fontAlignY=40&color=gradient)
+  
 ## Hi there, I'm Jaewon Lee 👋  
 
 **I am studying at the Department of Robotics of Kwangwoon University.**
 
 ### I'm Interest in   
 🔎 **SLAM, Robot Navigation**<br>
+🔎 **Multi Robot System**<br>
 🔎 **Artificial Intelligence**<br>
-🔎 **Multi Robot Control**<br>
 🔎 **Cooperative Autonomous Driving - Smart Road Technology**<br>
 
 ------------------------------------
@@ -44,9 +46,11 @@
 
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-JaeWon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-JaeWon)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
+
+
 
 <!--
 **Lee-JaeWon/Lee-JaeWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
