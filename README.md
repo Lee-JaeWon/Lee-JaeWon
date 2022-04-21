@@ -7,9 +7,9 @@
 **I am studying at the Department of Robotics of Kwangwoon University.**
 
 ### I'm Interest in   
-🔎 **SLAM, Robot Navigation**<br>
 🔎 **Multi Robot System**<br>
-🔎 **Artificial Intelligence**<br>
+🔎 **Robot Navigation, Exploration**<br>
+🔎 **SLAM**<br>
 🔎 **Cooperative Autonomous Driving - Smart Road Technology**<br>
 
 ------------------------------------
