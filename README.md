@@ -37,6 +37,10 @@
 
 --------------------------------------  
 <h3 align="center">👉About Me </h3>
+
+Personal Blog : [https://lee-jaewon.github.io/](https://lee-jaewon.github.io/)<br>
+Team Blog : [https://ropiens.tistory.com/](https://ropiens.tistory.com/)
+
 <div align=center>
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/Aboutme/)
