@@ -11,6 +11,9 @@
 🔎 **Robot Navigation, Exploration**<br>
 🔎 **SLAM**<br>
 🔎 **Cooperative Autonomous Driving - Smart Road Technology**<br>
+<br><br>
+Personal Blog : [https://lee-jaewon.github.io/](https://lee-jaewon.github.io/)<br>
+Team Blog : [https://ropiens.tistory.com/](https://ropiens.tistory.com/)
 
 ------------------------------------
 ### Tech Stack & Frame Work that I Know and Study 
@@ -37,9 +40,6 @@
 
 --------------------------------------  
 <h3 align="center">👉About Me </h3>
-
-Personal Blog : [https://lee-jaewon.github.io/](https://lee-jaewon.github.io/)<br>
-Team Blog : [https://ropiens.tistory.com/](https://ropiens.tistory.com/)
 
 <div align=center>
 
