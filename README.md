@@ -15,6 +15,7 @@
 Personal Blog : [https://lee-jaewon.github.io/](https://lee-jaewon.github.io/)<br>
 Team Blog : [https://ropiens.tistory.com/](https://ropiens.tistory.com/)
 
+<!--
 ------------------------------------
 ### Tech Stack & Frame Work that I Know and Study 
 <div align=left>
@@ -37,7 +38,7 @@ Team Blog : [https://ropiens.tistory.com/](https://ropiens.tistory.com/)
 <img src="https://img.shields.io/badge/STM32F401RE-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 </div>
-
+-->
 --------------------------------------  
 <h3 align="center">👉About Me </h3>
 
