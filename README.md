@@ -8,8 +8,8 @@
 
 ### I'm Interest in   
 🔎 **Multi Robot System**<br>
-🔎 **Robot Navigation, Exploration**<br>
-🔎 **SLAM**<br>
+🔎 **SLAM, Localization**<br>
+🔎 **Deep Learning**<br>
 🔎 **Cooperative Autonomous Driving - Smart Road Technology**<br>
 <br><br>
 Personal Blog : [https://lee-jaewon.github.io/](https://lee-jaewon.github.io/)<br>
