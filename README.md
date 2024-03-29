@@ -48,6 +48,8 @@
 
 <div align=center>
 
+  [![Tech Blog Badge](http://img.shields.io/badge/-Aboutme%20Page-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/leejaewon-cv-page/)
+  <br>
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/Aboutme/)
   [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Lee-JaeWon/Lee-JaeWon_CV/blob/main/Lee-JaeWon_CV.pdf) 
   [![Email](http://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/Aboutme/email) 
