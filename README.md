@@ -54,9 +54,11 @@
   [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Lee-JaeWon/Lee-JaeWon_CV/blob/main/Lee-JaeWon_CV.pdf) 
   [![Email](http://img.shields.io/badge/-Email-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/Aboutme/email) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewon-lee-profile/)](https://www.linkedin.com/in/jaewon-lee-profile/)
-<br>  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-JaeWon&count_bg=%237FC4BF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<be>  
 
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-JaeWon&count_bg=%237FC4BF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 </div>
 
 <div align=center>
