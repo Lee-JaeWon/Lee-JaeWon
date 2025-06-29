@@ -7,7 +7,7 @@
 <h3 align="left">📖Education </h3>
 
 * **Yonsei University**, Seoul, South Korea
-    * **Ph.D.** in [CILAB](https://cilab.yonsei.ac.kr/), [School of Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee/index.do) (2024.3~)
+    * **Ph.D.** in [CILAB](https://cilab.yonsei.ac.kr/), [Department of Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee/index.do) (2024.3~)
    
 * **Kwangwoon University**, Seoul, South Korea
     * **B.S.** in [Robotics](https://cni.kw.ac.kr/) (2020.3~2024.2)
