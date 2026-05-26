@@ -53,7 +53,7 @@
   <br>
 -->
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/)
-  [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Lee-JaeWon/Lee-JaeWon_CV/blob/main/Lee-JaeWon_CV.pdf) 
+  [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/ljw_cv_page/) 
   [![Email](http://img.shields.io/badge/-Email-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/Aboutme/email) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewon-lee-profile/)](https://www.linkedin.com/in/jaewon-lee-profile/)
 <be>  
