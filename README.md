@@ -17,7 +17,7 @@
 ### I'm Interest in   
 🔎 **Reinforcement Learning**<br>
 🔎 **Multi Robot System**<br>
-🔎 **3D Scene Graph, Topological Representation**<br>
+🔎 **3D Vision, 3D Scene Graph**<br>
 
 <!--
 ------------------------------------
