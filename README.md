@@ -69,6 +69,11 @@
 </div>
 -->
 
+<div align=center>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lee-JaeWon&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=Lee-JaeWon&show_icons=true&include_all_commits=true&theme=light_github)
+  
+</div>
 
 <!--
 **Lee-JaeWon/Lee-JaeWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
