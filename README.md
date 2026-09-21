@@ -15,9 +15,9 @@
 <br>
 
 ### I'm Interest in   
+🔎 **Reinforcement Learning**<br>
 🔎 **Multi Robot System**<br>
 🔎 **3D Scene Graph, Topological Representation**<br>
-🔎 **Deep Learning, Map Representation**<br>
 
 <!--
 ------------------------------------
@@ -52,11 +52,13 @@
   [![Tech Blog Badge](http://img.shields.io/badge/-AboutMe-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/leejaewon-cv-page/)
   <br>
 -->
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/)
   [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/ljw_cv_page/) 
   [![Email](http://img.shields.io/badge/-Email-0077b5?style=flat-square&logo=Gmail&logoColor=white&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/Aboutme/email) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewon-lee-profile/)](https://www.linkedin.com/in/jaewon-lee-profile/)
 <be>  
+<!--
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/)
+-->
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-JaeWon&count_bg=%237FC4BF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
